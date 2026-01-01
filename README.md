@@ -11,7 +11,7 @@ My focus is helping SMEs and startups simplify manual processes through intel
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 🕒 **Timesheet‑Automation** | Automates employee timesheet submission and approval using n8n + C# API + OpenAI integration | C#, n8n, OpenAI API |
+| 🕒 **Timesheet‑Automation** *(in progress)* | Automates employee timesheet submission and approval using n8n + C# API + OpenAI integration | C#, n8n, OpenAI API |
 | 🤖 **Leave‑Approval‑Chatbot** *(in progress)* | WhatsApp chatbot that analyses natural‑language leave requests and validates them via C# backend | n8n, C#, OpenAI, WhatsApp API |
 | 📸 **Customer‑Lead‑Image‑API** | Backend service that processes images and extracts customer leads using image AI models | ASP.NET Core, Azure AI, TypeScript |
 | 🧱 **Promotion‑Engine** | Rule‑based discount engine demonstrating business logic architecture | C#, Rules Design Pattern |
