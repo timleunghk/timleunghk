@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Timothy Leung
 
-<!--
-**timleunghk/timleunghk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI & Automation Consultant | Senior Software Engineer**
 
-Here are some ideas to get you started:
+I design and build smart workflow automation systems that connect traditional .NET backends with modern low‑code platforms like **n8n** and AI services such as **OpenAI**.  
+My focus is helping SMEs and startups simplify manual processes through intelligent integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 Highlighted Projects
+
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| 🕒 **Timesheet‑Automation** | Automates employee timesheet submission and approval using n8n + C# API + OpenAI integration | C#, n8n, OpenAI API |
+| 🤖 **Leave‑Approval‑Chatbot** *(in progress)* | WhatsApp chatbot that analyses natural‑language leave requests and validates them via C# backend | n8n, C#, OpenAI, WhatsApp API |
+| 📸 **Customer‑Lead‑Image‑API** | Backend service that processes images and extracts customer leads using image AI models | ASP.NET Core, Azure AI, TypeScript |
+| 🧱 **Promotion‑Engine** | Rule‑based discount engine demonstrating business logic architecture | C#, Rules Design Pattern |
+| 🗒️ **SmartNotes** | Personal tool for cross‑device note organization | ASP.NET Core + WPF |
+| 🌦️ **WeatherAppMeteo_GoogleSheet** | Combines weather data API with Google Sheets automation | C#, Google API |
+
+---
+
+### 🧰 Tech Stack
+**Languages:** C#, TypeScript, Python  
+**Frameworks:** ASP.NET Core, n8n Workflows, Azure Functions  
+**AI & Automation:** ChatGPT API, LangChain, Process Automation  
+**Tools:** VS Code, Postman, Docker, GitHub Actions  
+
+---
+
+### 🌍 Let’s Connect
+- 💼 [Upwork Profile](https://www.upwork.com/freelancers/leungtimhk)  
+- 💬 [LinkedIn](https://www.linkedin.com/in/timothy-leung-48261b8b/)  
+- 📧 timleunghk@gmail.com  
+
+---
+
+> 💭 _“Building bridges between AI and real‑world business automation.”_
