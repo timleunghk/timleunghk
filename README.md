@@ -11,8 +11,8 @@ My focus is helping SMEs and startups simplify manual processes through intel
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 🕒 **Timesheet‑Automation** *(in progress)* | Automates employee timesheet submission and approval using n8n + C# API + OpenAI integration | C#, n8n, OpenAI API |
-| 🤖 **Leave‑Approval‑Chatbot** *(in progress)* | WhatsApp chatbot that analyses natural‑language leave requests and validates them via C# backend | n8n, C#, OpenAI, WhatsApp API |
+| 📄 **Xperience-Resume-Analyzer** | Webhook-based AI service that extracts text from CVs/JDs, converts formats, and uses Llama3 to evaluate candidate match scores for HR or Job Seekers | n8n, Ollama (Llama3), ConvertAPI, Webhooks |
+| 🔄 **CRM-to-Spreadsheet-Sync** | Automated data pipeline template that extracts and transforms CRM contact data (e.g., HubSpot) to populate spreadsheets or databases | n8n, JavaScript, Data Transformation |
 | 📸 **Customer‑Lead‑Image‑API** | Backend service that processes images and extracts customer leads using image AI models | ASP.NET Core, Azure AI, TypeScript |
 | 🧱 **Promotion‑Engine** | Rule‑based discount engine demonstrating business logic architecture | C#, Rules Design Pattern |
 | 🗒️ **SmartNotes** | Personal tool for cross‑device note organization | ASP.NET Core + WPF |
