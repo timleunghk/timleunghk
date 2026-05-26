@@ -15,7 +15,7 @@ Currently operating as an Independent Developer, I design and build smart workfl
 | 📄 **Xperience-Resume-Analyzer** | Webhook-based AI service that extracts text from CVs/JDs, converts formats, and uses Llama3 to evaluate candidate match scores for HR or Job Seekers | n8n, Ollama (Llama3), ConvertAPI, Webhooks |
 | 🔄 **CRM-to-Spreadsheet-Sync** | Automated data pipeline template that extracts and transforms CRM contact data (e.g., HubSpot) to populate spreadsheets or databases | n8n, JavaScript, Data Transformation |
 | 📸 **Customer‑Lead‑Image‑API** | Backend service that processes images and extracts customer leads using image AI models | ASP.NET Core, Azure AI, TypeScript |
-| 🥗 **Nutrition-Management-System** | Full-stack application for tracking dietary intake, managing nutritional data, and generating personalized AI-driven meal plans | n8n, HTML5,Ollama (Llama3), Webhooks |
+| 🥗 **Nutrition-Management-System** | Multi-agent conversational system for tracking dietary intake via WhatsApp, featuring intent recognition, session memory, and automated JSON data validation | n8n, LangChain, Ollama (Qwen 2.5), WhatsApp API |
 | 🧱 **Promotion‑Engine** | Rule‑based discount engine demonstrating business logic architecture | C#, Rules Design Pattern |
 | 🗒️ **SmartNotes** | Personal tool for cross‑device note organization and real-time data sync | C# ASP.NET Core, WPF |
 | 🌦️ **WeatherAppMeteo_GoogleSheet** | Combines weather data API with Google Sheets automation | C#, Google API |
