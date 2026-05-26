@@ -11,31 +11,30 @@ Currently operating as an Independent Developer, I design and build smart workfl
 ### 💡 Highlighted Projects
 
 | Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🥗 **Nutrition-Management-System** | Full-stack AI application for tracking dietary intake, featuring a WhatsApp conversational interface, automated data extraction, and dual-agent validation | n8n, LangChain, Ollama (Qwen 2.5), WhatsApp API, Webhooks |
-| 📄 **Xperience-Resume-Analyzer** | Webhook-based AI service that extracts text from CVs/JDs, converts formats, and uses Llama3 to evaluate candidate match scores for HR or Job Seekers | n8n, Ollama (Llama3), ConvertAPI, Webhooks |
-| 📸 **Customer‑Lead‑Image‑API** | Backend service that processes images and extracts customer leads using image AI models | ASP.NET Core, Azure AI, TypeScript |
-| 🧱 **Promotion‑Engine** | Rule‑based discount engine demonstrating business logic architecture | C#, Rules Design Pattern |
-| 🗒️ **SmartNotes** | Personal tool for cross‑device note organization and real-time data sync | C# ASP.NET Core, WPF |
-| 🌦️ **WeatherAppMeteo_GoogleSheet** | Combines weather data API with Google Sheets automation | C#, Google API |
+| :--- | :--- | :--- |
+| 🥗 **[Nutrition-Management-System](https://github.com/timleunghk/Nutrition-Management)** | Full-stack AI application for tracking dietary intake, featuring a WhatsApp conversational interface, automated data extraction, and dual-agent validation. | n8n, LangChain, Ollama (Qwen 2.5), WhatsApp API, Webhooks |
+| 📄 **[Xperience-Resume-Analyzer](https://github.com/timleunghk/Xperience-Resume-Analyzer)** | Webhook-based AI service that extracts text from CVs/JDs, converts formats, and uses Llama 3 to evaluate candidate match scores for HR or Job Seekers. | n8n, Ollama (Llama 3), ConvertAPI, Webhooks |
+| 📸 **[Customer-Lead-Image-API](https://github.com/timleunghk/CustomerLeadImageApi)** | Backend service that processes images and extracts customer leads using image AI models. | ASP.NET Core, Azure AI, TypeScript |
+| 🗒️ **[SmartNotes](https://github.com/timleunghk/SmartNotes)** | Personal tool for cross-device note organization and real-time data sync. | C# ASP.NET Core, WPF |
+| 🌦️ **[WeatherAppMeteo](https://github.com/timleunghk/WeatherAppMeteo)** | Combines weather data API with Google Sheets automation. | C#, Google API, Google Sheets |
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Tech Stack
 
 *   **Core Languages:** C#, Python, TypeScript, JavaScript
 *   **Frameworks:** .NET 8, FastAPI, Angular 18, Entity Framework, WPF
 *   **AI & Automation:** n8n (AI Workflows), LangChain, Azure OpenAI, RAG Architecture
 *   **APIs & Integration:** REST APIs, Webhooks, Swagger, JWT
-*   **Data & DevOps:** SQL Server, Vector Databases (ChromaDB/Pinecone), Docker, GitHub Actions
+*   **Data & DevOps:** SQL Server, Vector Databases (ChromaDB / Pinecone), Docker, GitHub Actions
 
 ---
 
-### 🌍 Let’s Connect
+### 🌍 Let’s Connect
 
-- 💼 [Upwork Profile](https://www.upwork.com/freelancers/leungtimhk)  
-- 💬 [LinkedIn](https://www.linkedin.com/in/timothy-leung-48261b8b/)  
-- 📧 timleunghk@gmail.com  
+*   💼 **[Upwork Profile]([https://www.upwork.com/freelancers/leungtimhk]**
+*   💬 **[LinkedIn](https://www.linkedin.com/in/timothy-leung-48261b8b)**
+*   📧 **[timleunghk@gmail.com](mailto:timleunghk@gmail.com)**
 
 ---
 
