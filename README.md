@@ -34,7 +34,7 @@ Currently operating as an Independent Developer, I design and build smart workfl
 
 *   💼 **[Upwork Profile]([https://www.upwork.com/freelancers/leungtimhk]**
 *   💬 **[LinkedIn](https://www.linkedin.com/in/timothy-leung-48261b8b)**
-*   📧 **[timleunghk@gmail.com](mailto:timleunghk@gmail.com)**
+*   📧 **[timhk.leung@gmail.com](mailto:timhk.leung@gmail.com)**
 
 ---
 
