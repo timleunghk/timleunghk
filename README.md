@@ -12,7 +12,7 @@ Currently operating as an Independent Developer, I design and build smart workfl
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🥗 **[Nutrition-Management-System](https://github.com/timleunghk/Nutrition-Management)** | Full-stack AI application for tracking dietary intake, featuring a WhatsApp conversational interface, automated data extraction, and dual-agent validation. | n8n, LangChain, Ollama (Qwen 2.5), WhatsApp API, Webhooks |
+| 🥗 **[Nutrition-Management-System](https://github.com/timleunghk/Nutrition-Management)** | Full-stack AI application for tracking dietary intake, featuring a WhatsApp conversational interface, automated data extraction, tool-calling for history retrieval, and direct MySQL integration | n8n, LangChain, Ollama (Qwen 3.5), WhatsApp API, MySQL Server, Webhooks |
 | 📄 **[Xperience-Resume-Analyzer](https://github.com/timleunghk/Xperience-Resume-Analyzer)** | Webhook-based AI service that extracts text from CVs/JDs, converts formats, and uses Llama 3 to evaluate candidate match scores for HR or Job Seekers. | n8n, Ollama (Llama 3), ConvertAPI, Webhooks |
 | 📸 **[Customer-Lead-Image-API](https://github.com/timleunghk/CustomerLeadImageApi)** | Backend service that processes images and extracts customer leads using image AI models. | ASP.NET Core, Azure AI, TypeScript |
 | 🗒️ **[SmartNotes](https://github.com/timleunghk/SmartNotes)** | Personal tool for cross-device note organization and real-time data sync. | C# ASP.NET Core, WPF |
