@@ -12,6 +12,7 @@ Currently operating as an Independent Developer, I design and build smart workfl
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| 📄 **[廣東話 AI 醫生預約系統 (Cantonese AI Clicnic Booking System (Prototype)](https://github.com/timleunghk/Xperience-Resume-Analyzer)** | This project is a real-time, Cantonese-speaking AI receptionist for clinic bookings, built with FastAPI, WebSockets, and Azure AI.It features natural voice interactions with anti-overlap control, live web UI transcripts, and is fully Dockerized for easy deployment.. | FastAPI, Azure OpenAI (GPT), Azure TTS (Cantonese), WinSocket |
 | 📄 **[Xperience-Resume-Analyzer](https://github.com/timleunghk/Xperience-Resume-Analyzer)** | Enterprise-grade, HIPAA-ready AI service that natively parses CVs/JDs (PDF/ZIP), masks PII, and uses cryptographic anonymization for blind hiring. It leverages Azure OpenAI to evaluate candidate match scores and automatically generate Excel reports. | n8n, Azure OpenAI (GPT), LangChain, Webhooks |
 | 🥗 **[Smart Diet Agent](https://github.com/timleunghk/Nutrition-Management)** | Full-stack AI application for tracking dietary intake, featuring a WhatsApp conversational interface, automated data extraction, tool-calling for history retrieval, and direct MySQL integration | n8n, LangChain, Ollama (Qwen 3.5), WhatsApp API, MySQL Server, Webhooks |
 | 📸 **[Customer-Lead-Image-API](https://github.com/timleunghk/CustomerLeadImageApi)** | Backend service that processes images and extracts customer leads using image AI models. | ASP.NET Core, Azure AI, TypeScript |
